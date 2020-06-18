@@ -3,7 +3,7 @@
 [![NuGet](https://img.shields.io/badge/NuGet-1.1.4-blue.svg)](https://www.nuget.org/packages/BingMapsRESTToolkit)
 [![license](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/Microsoft/BingMapsRESTToolkit/blob/master/LICENSE.md)
 
-# RecursiveGeek Fork
+# Daikin Applied Fork
 
 ## June 4, 2019
 This has been forked from [Microsoft's BingMapsRESTToolkit](https://github.com/microsoft/BingMapsRESTToolkit) since active development has stalled.  
