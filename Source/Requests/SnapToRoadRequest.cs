@@ -124,7 +124,7 @@ namespace BingMapsRESTToolkit
             var requestUrl = GetRequestUrl();
             var requestBody = GetPostRequestBody();
 
-            return await ServiceHelper.MakeAsyncPostRequest<Route>(requestUrl, requestBody, remainingTimeCallback);
+            return await ServiceHelper.MakeAsyncPostRequest<SnapToRoadResponse>(requestUrl, requestBody, remainingTimeCallback);
         }
         
         /// <summary>
